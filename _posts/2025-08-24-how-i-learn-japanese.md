@@ -20,6 +20,7 @@ My method is similar to these resources. These are great resources and have been
 - [Immersion-Based Japanese Learning ](https://donkuri.github.io/learn-japanese/)
 - [Japanese Guide - TheMoeWay](https://learnjapanese.moe/routine/#day-15-to-day-30-daily-japanese-study-and-immersion)
 - [Trenton《トレントン》](https://www.youtube.com/@%E3%83%88%E3%83%AC%E3%83%B3%E3%83%88%E3%83%B3)
+
 I study for about 4 Hours every night and limit myself to 1 hour for anki and another hour for grammar practice before moving onto immersion. Please note that I say limit because usually I finish earlier. It is generally more important to immerse yourself rather than actively studying so I'm pretty easy going when it comes to grammar... not really anki because the reviews start to pile up.
 
 ## Tools that I use
@@ -56,8 +57,10 @@ The best shows are the ones that you are compelled to understand, this is usuall
 To my understanding if you want to play videos you can do so in either two ways.
 - Listen to a Japanese podcast in the background
 - Change the games language to Japanese
+
 From what I have experienced listening to Japanese podcasts in the background while you play video games can be a good way to passively listen to Japanese and can be a way to engage with Japanese practice even when you don't want to. I recommend games that you don't have to put much thought into. Here are some game recommendations.
- - Minecraft
+
+- Minecraft
  - Euro Truck Simulator
  - Warframe*
 	 - I only really use this to passively listen if I am idly farming. Otherwise it can get a bit too intense.
