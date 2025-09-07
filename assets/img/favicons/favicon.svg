@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(1.953125,0,0,1.953125,0,0)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512"><svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_638_808)">
+<rect width="512" height="512" fill="white" style="--darkreader-inline-fill: var(--darkreader-background-ffffff, #181a1b);" data-darkreader-inline-fill=""></rect>
+<path d="M95.1429 0L31 512H480L407.839 0L335.679 240H167.304L95.1429 0Z" fill="#040316" stroke="#040316" style="--darkreader-inline-fill: var(--darkreader-background-040316, #030212); --darkreader-inline-stroke: var(--darkreader-text-040316, #e0ddd9);" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></path>
+<ellipse cx="119.196" cy="328" rx="24.0536" ry="24" fill="#FBFBFE" style="--darkreader-inline-fill: var(--darkreader-background-fbfbfe, #191c1d);" data-darkreader-inline-fill=""></ellipse>
+<ellipse cx="391.804" cy="328" rx="24.0536" ry="24" fill="#FBFBFE" style="--darkreader-inline-fill: var(--darkreader-background-fbfbfe, #191c1d);" data-darkreader-inline-fill=""></ellipse>
+</g>
+<defs>
+<clipPath id="clip0_638_808">
+<rect width="512" height="512" fill="white" style="--darkreader-inline-fill: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-fill=""></rect>
+</clipPath>
+</defs>
+</svg></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(1.953125,0,0,1.953125,0,0)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512"><svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M96 0L32 512H480L408 0L336 240H168L96 0Z" fill="#FBFBFE"></path>
+<circle cx="120" cy="328" r="24" fill="#040316"></circle>
+<circle cx="392" cy="328" r="24" fill="#040316"></circle>
+</svg></svg></g></g></svg></g></svg>
